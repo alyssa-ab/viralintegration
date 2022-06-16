@@ -9,8 +9,13 @@ Initial release of nf-core/viralintegration, created with the [nf-core](https://
 
 ### `Added`
 
+- viral_index parameter
+- nf-core samtools faidx module
+
 ### `Fixed`
 
 ### `Dependencies`
+
+- nf-core modules samtools_faidx
 
 ### `Deprecated`
